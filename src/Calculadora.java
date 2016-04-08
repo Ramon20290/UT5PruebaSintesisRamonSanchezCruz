@@ -9,8 +9,17 @@
  * @author 1-DAM-T
  */
 public class Calculadora {
+/**
+ * Variable privada: primer numero de la operacion
+ */
  private int operador1;
+ /**
+ * Variable privada: segundo numero de la operacion
+ */
  private int operador2;
+ /**
+ * Variable privada: aqui se mostrara el resultado de la operacion
+ */
  private int operacion;
 
     public int getOperador1() {
