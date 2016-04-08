@@ -13,6 +13,7 @@ public class Calculadora {
  * Variable privada: primer numero de la operacion
  */
  private int operador1;
+
  /**
  * Variable privada: segundo numero de la operacion
  */
@@ -45,5 +46,5 @@ public class Calculadora {
     public void setOperacion(int operacion) {
         this.operacion = operacion;
     }
- 
+
 }
